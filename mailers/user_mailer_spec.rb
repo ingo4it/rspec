@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-describe ValuationLeadMailer do 
+describe UserdMailer do 
 
   let(:lead) { ValuationLead.new({  
       
